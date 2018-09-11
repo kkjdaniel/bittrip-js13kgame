@@ -3,4 +3,8 @@ BitTrip is a tiny endless runner style game written in JavaScript for the 2018 J
 
 It's tiny too, relying only on canvas drawn elements and vanilla JavaScript, it comes in at **under 2kb!**
 
+Controls: 
+- Up Arrow
+- Down Arrow
+
 ![Imgur](https://i.imgur.com/ls4DiYZ.gif)
